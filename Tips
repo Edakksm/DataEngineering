@@ -1,0 +1,2 @@
+1. If there are many categorical values in the data, this might impact the performance especially if a bulk of the categorical values are present
+only in test set and not in training set. Model will not know what to do with categorical values it has not seen in the training set
